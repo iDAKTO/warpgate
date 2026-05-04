@@ -4032,7 +4032,7 @@
           "username": {
             "type": "string"
           },
-          "allowInsecureAlgos": {
+          "allow_insecure_algos": {
             "type": "boolean"
           },
           "auth": {
@@ -5603,7 +5603,7 @@
           "username": {
             "type": "string"
           },
-          "allowInsecureAlgos": {
+          "allow_insecure_algos": {
             "type": "boolean"
           },
           "auth": {
