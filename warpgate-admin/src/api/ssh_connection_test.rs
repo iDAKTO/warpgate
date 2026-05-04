@@ -15,7 +15,6 @@ use crate::api::common::require_admin_permission;
 pub struct Api;
 
 #[derive(Object)]
-#[oai(rename_all = "camelCase")]
 struct CheckSshHostKeyRequest {
     host: String,
     port: u16,
